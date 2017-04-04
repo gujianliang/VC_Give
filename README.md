@@ -1,2 +1,3 @@
 # VC_Give
 这是给VC_GIV的demokit的从初始card到公司卡的程序，带有log版本，可以使用串口工具进行发送
+这是无log版本，主要是给PC端的软件使用
